@@ -36,8 +36,8 @@
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-<img src="https://github.com/Hephthalites/Bookish/blob/main/Images/thirdparty1.png" alt="thirdparty1" width="1000" height = "auto"/> <br>
-<img src="https://github.com/Hephthalites/Bookish/blob/main/Images/thirdParty2.png" alt="thirdparty2" width="2500" height = "auto"/> 
+<img src="https://github.com/Hephthalites/Bookish/blob/main/Images/thirdparty1.jpg" alt="thirdparty1" /> <br>
+<img src="https://github.com/Hephthalites/Bookish/blob/main/Images/thirdParty2.jpg" alt="thirdparty2" /> 
 
 ## References
 
@@ -90,6 +90,9 @@
   https://www.canva.com/media/MADzG9y-KeA
   
 * Arizona Coyotes., (2015, February 19). <i> Arizona Coyotes & Community Relations visit Homeward Bound </i>. [Video]. YouTube. URL https://youtu.be/qz730Fv_MXY
+
+
+.......................................................................................................................................................................................................................................................................
 
 
 
