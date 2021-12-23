@@ -34,6 +34,78 @@
 
 ## Use of Third-Party Resources
 
+![](https://github.com/Hephthalites/Bookish/blob/main/Images/thirdParty1.png)
+![](https://github.com/Hephthalites/Bookish/blob/main/Images/thirdParty2.png)
+
+## References
+
+* Playfair Display. Google Fonts. Retrieved 17 November 2021 from <br>
+  Playfair Display - Google Fonts
+
+* Montserrat. Google Fonts. Retrieved 21 November 2021 from <br>
+  Montserrat - Google Fonts
+  
+* Rahul Pandit. Pexels. Retrieved 18 November 2021 from <br>
+  Rahul Pandit · Photography - Pexels
+  
+* Engin Akyurt. Pexels. Retrieved 20 November 2021 from <br>
+  Engin Akyurt · Photography - Pexels
+  
+* Tembela Bohle. Pexels. Retrieved 19 November 2021 from <br>
+  Tembela Bohle · Photography - Pexels
+  
+* Negative Space. Pexels. Retrieved 18 November 2021 from <br>
+  Negative Space · Photography - Pexels
+  
+* Emily. Pexels. Retrieved 18 November 2021 from <br>
+  Emily · Photography - Pexels
+
+* Suzy Hazelwood. Pexels. Retrieved 20 November 2021 from <br>
+  Suzy Hazelwood · Photography - Pexels
+  
+* Sharon Mccutcheon. Retrieved 20 November 2021 from <br>
+  Sharon McCutcheon · Photography - Pexels
+  
+* Tuur Tisseghem. Retrieved 20 November 2021 from <br>
+  Tuur Tisseghem · Photography - Pexels
+  
+* Image: Changing Plans For The Farewell. Retrieved 20 November 2021 from <br>
+  https://images.app.goo.gl/woHXFLh85nRVSUn98
+  
+* Image: Donate books, help raise money. Retrieved 21 Novemver 2021 from <br>
+  https://images.app.goo.gl/r8rF1GnX9J51i7Tt9
+  
+* Image: Donating Old Books. Retrieved 21 November 2021 from <br>
+  shorturl.at/fAIZ2
+  
+* Lilasu. Twitter Logo Illustration. Retrieved 18 November 2021 from <br>
+  https://www.canva.com/media/MAEU92mvYvo
+  
+* Logosandbrands. Facebook Circle Logo. Retrieved 18 November 2021 from <br>
+  https://www.canva.com/media/MAEVse4z0B8
+  
+* Icons8. Instagram. Retrieved 18 November 2021 from <br>
+  https://www.canva.com/media/MADzG9y-KeA
+  
+* Arizona Coyotes., (2015, February 19). <i> Arizona Coyotes & Community Relations visit Homeward Bound </i>. [Video]. YouTube. URL https://youtu.be/qz730Fv_MXY
+
+
+
+
+
+
+
+
+
+
+
+
+
+   
+ 
+
+
+
 
 
   
