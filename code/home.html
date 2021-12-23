@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Home</title>
+    <link href='https://fonts.googleapis.com/css?family=Playfair Display' rel='stylesheet'>
+    <link rel="stylesheet" href="home.css">
+    <script src="home.js"></script>
+
+
+</head>
+
+<body>
+
+    <div class="nav-container">
+        <img src="Images/logo_white.png" class="logo" alt="logo">
+        <nav class="nav-bar">
+            <ul>
+                <li><a href="home.html">Home</a></li>
+                <li><a href="about.html">About Us</a></li>
+                <li><a href="donation.html">Donation</a></li>
+                <li><a href="volunteer.html">Volunteer</a></li>
+                <li><a href="contact.html">Contact Us</a></li>
+
+
+            </ul>
+
+
+
+            <div class="header1">
+
+                <h1>Welcome to Bookish</h1>
+
+            </div>
+
+            <div class="donate1">
+
+                <button type="button" id="donate">Donate Now!
+                    <a href=""></a>
+                </button>
+
+            </div>
+
+
+            <a href="">
+                <img src="Images/facebook.png" alt="facebook" class="socials">
+            </a>
+
+            <a href="">
+                <img src="Images/instagram.png" alt="instagram" class="socials">
+            </a>
+
+            <a href="">
+                <img src="Images/twitter.png" alt="twitter" class="socials">
+            </a>
+
+        </nav>
+    </div>
+
+
+
+    <section>
+        <img src="Images/books.jpg" alt="books" id="slider">
+
+        <ul class="navigation">
+            <li onclick="imgSlider('Images/books2.jpg')"><img src="Images/books2.jpg"></li>
+            <li onclick="imgSlider('Images/book_shelf.jpg')"><img src="Images/book_shelf.jpg">
+            </li>
+            <li onclick="imgSlider('Images/aligned_books.jpg')"><img src="Images/aligned_books.jpg"></li>
+            <li onclick="imgSlider('Images/books3.jpg')"><img src="Images/books3.jpg"></li>
+        </ul>
+    </section>
+
+</body>
+
+</html>

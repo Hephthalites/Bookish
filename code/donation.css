@@ -1,0 +1,235 @@
+body {
+    background-color: #f8f8ff; 
+    overflow: scroll;
+    height: 100%;
+    margin: auto;
+  }
+
+  @import url('https://fonts.googleapis.com/css?family=Montserrat:400,800');
+  
+.nav-container{
+    position: fixed;
+    width: 100%;
+    height: 99px;
+    top: 0;
+    left: 0;
+    z-index: 999;
+    background-color: #414a4c;
+    /*box-shadow: 0 5px 4px -4px black;*/
+}  
+
+.logo{
+
+    width: 16%;
+    height: auto;
+    position: fixed;
+    top: -85px;
+}
+
+ul{
+    list-style-type: none;
+}
+
+ul > li {
+    
+    display: inline-block;
+    zoom:1;
+    display:inline;
+    position: relative;
+    left: 200px;
+    right: 200px;
+    top: 20px;
+    cursor: pointer;
+    background-color: rgb(85,85,85, .3);
+    box-sizing: border-box;
+    padding: 20px;
+    margin-right: 40px;
+}
+
+li a {
+    text-align: center;
+    text-decoration: none;
+    color: white;
+    font-family: 'Playfair Display';
+  }
+
+  li:hover {
+    background-color: #cd5c5c;
+  }
+
+  .socials{
+      display:inline-table;
+      width: 40px;
+      height: auto;
+      position: relative;
+      left: 1400px;
+      margin-top: -50px;   
+  }
+
+  .socials:hover{
+    background-color: #cd5c5c;
+  }
+
+ .img-container{
+
+  display: table;
+  padding: 5px;
+  width: 33.33%;
+ }
+
+ .sideByside::after{
+   content: "";
+   clear: both;
+   display: table;
+ }
+
+ .sideByside{
+  display: flex;
+  margin-top: 70px;
+  backface-visibility: visible;
+ }
+
+ .img-container {
+  flex: 33.33%;
+  padding: 5px;
+  border-bottom: 3px solid #414a4c;
+  background-color: #414a4c;
+}
+
+/*
+
+@media screen and (max-width: 500px) {
+  .img-container {
+    width: 100%;
+  }
+}
+
+*/
+
+.img-container img{
+  height: 250px;
+  width: auto;
+  float: left;
+}
+
+h1{
+
+  font-family: 'Playfair Display';
+  text-align: center;
+  font-size: 50px;
+  border-width: 1px;
+  padding: 1px;
+  position: relative;
+}
+
+h1::after{
+  content: "";
+  background: black;
+  position: absolute;
+  left: 50%;
+  height: 250px;
+  width: 1px;
+  top: -50px;
+  transform: rotate(90deg);
+}
+
+.gap-30{
+  width: 100%;
+  height: 30px;
+}
+
+.gap-10{
+  width: 100%;
+  height: 10px;
+}
+
+.content-text p{
+
+  margin: 0 auto;
+  width: 55%;
+  font-family: 'Playfair Display';
+  text-align: center;
+  font-size: 20px;
+  position: absolute;
+  top: 480px;
+  left: 23%;
+}
+
+.raise form{
+
+  margin: 0 auto;
+  position: absolute;
+  left: 55%;
+  top: 900px;
+}
+
+.formtitle p{
+  text-align: center;
+  font-size: 30px;
+  border-bottom: 1px solid #414a4c;
+  margin-left: 25px;
+  margin-top: 200px;
+  font-family: 'Playfair Display';
+  font-weight: 900;
+
+}
+
+.raise{
+  margin-left: 33%;
+  height: 650px;
+  width: 35%;
+  border-radius: 5px;
+  box-shadow: 0px 10px 1px #ddd, 0 10px 20px #ccc;
+  overflow: hidden;
+  background-color: white;
+}
+
+.input-container input{
+
+  width: 400px;
+  padding: 7px;
+  border-radius: 7px;
+  border: 1px solid rgb(65, 74, 76, .2);
+  margin-left: -300px;
+
+}
+
+.input-container label{
+
+  font-family: 'Montserrat', sans-serif;
+  font-weight: bold;
+  font-size: smaller;
+  letter-spacing: 0.5px;
+  margin-left: -300px;
+
+}
+
+
+input {
+  box-shadow: none!important;
+}
+
+input:focus {
+  border-color: #b0e5e3!important;
+  background-color: #EEF9F9!important;
+}
+
+#donate12{
+  padding: 10px;
+  width: 100%;
+  border: none;
+  background-color: #cd5c5c;
+  font-family: 'Montserrat', sans-serif;
+  letter-spacing: 1px;
+  font-weight: bolder;
+  color: #ddd;
+  border-radius: 20px;
+  position: relative;
+  bottom: -7px;
+  left: -140px;
+  cursor: pointer;
+}
+
+#donate12:hover{
+  background-color: #414a4c;
+}

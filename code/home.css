@@ -1,0 +1,154 @@
+body {
+    margin: 0;
+    background-color: #f8f8ff;
+    overflow: hidden;
+  }
+  
+.nav-container{
+    position: fixed;
+    width: 100%;
+    height: 99px;
+    top: 0;
+    left: 0;
+    z-index: 999;
+    background-color: #414a4c;
+    /*box-shadow: 0 5px 4px -4px black;*/
+}  
+
+.logo{
+
+    width: 16%;
+    height: auto;
+    position: fixed;
+    top: -85px;
+}
+
+ul{
+    list-style-type: none;
+}
+
+ul > li {
+    
+    display: inline-block;
+    zoom:1;
+    display:inline;
+    position: relative;
+    left: 200px;
+    right: 200px;
+    top: 20px;
+    cursor: pointer;
+    background-color: rgb(85,85,85, .3);
+    box-sizing: border-box;
+    padding: 20px;
+    margin-right: 40px;
+}
+
+li a {
+    text-align: center;
+    text-decoration: none;
+    color: white;
+    font-family: 'Playfair Display';
+  }
+
+  li:hover {
+    background-color: #cd5c5c;
+  }
+
+
+  .socials{
+      display:inline-table;
+      width: 40px;
+      height: auto;
+      position: relative;
+      left: 1400px;
+      margin-top: -50px;   
+  }
+
+  .socials:hover{
+    background-color: #cd5c5c;
+  }
+
+section{
+    position: relative;
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+section #slider{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: auto;
+    object-fit: cover;
+}
+
+section .navigation{
+    position: absolute;
+    bottom: 40px;
+    left: 35%;
+    transform: translateX(-50%);
+    z-index: 100;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+section .navigation li{
+    list-style: none;
+    cursor: pointer;
+    margin: 10px;
+
+}
+
+section .navigation li img{
+    width: 100px;
+    border: 4px solif #fff;
+    border-radius: 4px; 
+
+}
+
+
+.header1 h1{
+    text-align: center;
+    color: #fff;
+    font-size: 50px;
+    margin-top: 13px;
+    font-family: 'Playfair Display';
+}
+
+.header1{
+    background-color: rgb(65, 74, 76, .6);
+    height: 90px;
+    width: 100%;
+    position: absolute;
+    margin-top: 300px;
+    overflow: hidden;
+
+}
+
+#donate{
+
+    border: none;
+    font-family: 'Playfair Display';
+    cursor: pointer;
+    font-weight: bold;
+    font-size: large; 
+    padding: 17px; 
+    color: rgb(255, 255, 255 .5) ;
+}
+
+#donate:hover{
+    background-color: #cd5c5c;
+}
+
+.donate1{
+    margin-top: 27%;
+    margin-left: 750px;
+    position: absolute;
+    border: 7px inset rgb(65, 74, 76, .5);
+}

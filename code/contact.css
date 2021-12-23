@@ -1,0 +1,184 @@
+body {
+    margin: 0;
+    background-color: #f8f8ff;
+    overflow: scroll;
+  }
+  
+.nav-container{
+    position: fixed;
+    width: 100%;
+    height: 99px;
+    top: 0;
+    left: 0;
+    z-index: 999;
+    background-color: #414a4c;
+    /*box-shadow: 0 5px 4px -4px black;*/
+}  
+
+.logo{
+
+    width: 16%;
+    height: auto;
+    position: fixed;
+    top: -85px;
+}
+
+ul{
+    list-style-type: none;
+}
+
+ul > li {
+    
+    display: inline-block;
+    zoom:1;
+    display:inline;
+    position: relative;
+    left: 200px;
+    right: 200px;
+    top: 20px;
+    cursor: pointer;
+    background-color: rgb(85,85,85, .3);
+    box-sizing: border-box;
+    padding: 20px;
+    margin-right: 40px;
+}
+
+li a {
+    text-align: center;
+    text-decoration: none;
+    color: white;
+    font-family: 'Playfair Display';
+  }
+
+  li:hover {
+    background-color: #cd5c5c;
+  }
+
+
+  .socials{
+      display:inline-table;
+      width: 40px;
+      height: auto;
+      position: relative;
+      left: 1400px;
+      margin-top: -50px;   
+  }
+
+  .socials:hover{
+    background-color: #cd5c5c;
+  }
+
+  @import url('https://fonts.googleapis.com/css?family=Montserrat:400,800');
+
+
+.gap-30{
+    width: 100%;
+    height: 30px;
+}
+
+.top-image img{
+
+    width: 100%;
+    height: 600px;
+    background-repeat: no-repeat;
+    border-bottom: 4px solid black;
+    
+
+}
+
+h1{
+    font-family: 'Playfair Display';
+    font-size: 50px;
+    text-align: center;
+    margin: 0 auto;
+    color: #f8f8ff;
+    position: absolute;
+    top: 5px;
+    left: 41%;
+    letter-spacing: 4px;
+}
+
+.head12{
+
+    width: 100%;
+    height: 80px;
+    background-color: rgb(85,85,85, .3);
+    position: absolute;
+    top: 300px;
+
+}
+
+.inherit{
+    position: absolute;
+    left: 100px;
+}
+
+.inherit h2{
+
+    font-family: 'Playfair Display';
+    font-size: 20px;
+    letter-spacing: 4px;
+    text-decoration: underline;
+}
+
+.inherit p{
+
+    font-family: 'Playfair Display';
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+
+.Phone h2{
+    
+    font-family: 'Playfair Display';
+    font-size: 20px;
+    letter-spacing: 4px;
+    text-decoration: underline;
+}
+
+.Phone p{
+
+    font-family: 'Playfair Display';
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    font-size: 17px;
+}
+
+.Phone{
+    position: absolute;
+    left: 700px;
+}
+
+.email1{
+
+    position: absolute;
+    left: 1200px;
+
+}
+
+.email1 h2{
+    
+    font-family: 'Playfair Display';
+    font-size: 20px;
+    letter-spacing: 4px;
+    text-decoration: underline;
+}
+
+.email1 p{
+
+    font-family: 'Playfair Display';
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    font-size: 17px;
+}
+
+.Svideo > video{
+
+    margin-top: 300px;
+    margin-left: 550px;
+
+
+}
