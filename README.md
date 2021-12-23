@@ -34,7 +34,9 @@
 
 ## Use of Third-Party Resources
 
-<img src="https://github.com/Hephthalites/Bookish/blob/main/Images/thirdParty1.jpg" alt="thirdparty1" width="1000" height = "auto"/> <br>
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+<img src="https://github.com/Hephthalites/Bookish/blob/main/Images/thirdparty1.png" alt="thirdparty1" width="1000" height = "auto"/> <br>
 <img src="https://github.com/Hephthalites/Bookish/blob/main/Images/thirdParty2.png" alt="thirdparty2" width="2500" height = "auto"/> 
 
 ## References
