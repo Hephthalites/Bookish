@@ -29,6 +29,13 @@
    
 ## Group Contributions
 
+![](https://github.com/Hephthalites/Bookish/blob/main/Images/contributions1.png)
+![](https://github.com/Hephthalites/Bookish/blob/main/Images/contributions2.png)
+
+## Use of Third-Party Resources
+
+
+
   
     
         
