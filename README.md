@@ -6,6 +6,7 @@
     Hassan Ahmed Ramadan Ali (1916883)
     Annesa Maisarah Binti Ab Hamid (2011728)
     Nur Zulfah Insyirah Binti Fadzleey (2015384)
+    Nurrdinan Serena Binti Amer Sharifuddin (2012998)
     
     
 ## Project Description
